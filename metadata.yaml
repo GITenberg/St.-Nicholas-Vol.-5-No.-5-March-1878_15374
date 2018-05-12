@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15374#St.-Nicholas-Vol.-5-No.-5-March-1878
 gutenberg_bookshelf: St. Nicholas Magazine for Boys and Girls
 gutenberg_issued: '2005-03-15'
 gutenberg_type: Text
